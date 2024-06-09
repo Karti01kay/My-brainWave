@@ -1,4 +1,4 @@
-# React + Vite
+# BrainWave
 
 ### [Live Site](https://karti01kay.github.io/My-brainWave/)
 
